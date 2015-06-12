@@ -1,0 +1,61 @@
+.page div {
+	display: inline-block;
+}
+
+.content {
+	height: 450px;
+/*	background-color: #cc0000;*/
+	position: relative;
+	padding: 5px;
+	font-size: 20px;
+}
+
+.profile-image {
+	height: 450px;
+	position: relative;
+	float: left;
+	/*background-color: #cc0000;*/
+	padding: 5px;
+}
+
+ul {
+	margin: 0px;
+	text-decoration: none;
+}
+
+ul li {
+	list-style-type: none;
+}
+
+body {
+	background-color: #C1D1E0;
+}
+
+.header {
+	position: relative;
+	margin-top: 10px;
+	height: 40px;
+}
+
+.line {
+	height: 0px;
+	border: 1px solid black;
+	float: bottom;
+}
+
+.footer {
+	position: relative;
+	float: clear;
+	height: 100px;
+}
+
+.footer a {
+	color: #538bbf;
+	text-decoration: none;
+}
+
+.footer a:hover {
+	color: black;
+}
+
+
