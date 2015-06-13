@@ -1,0 +1,74 @@
+
+body {
+	background-color: #4D5359;
+	width: 80%;
+	margin: auto;
+	font-family: Helvetica, Verdana, sans-serif;
+	color: white;
+}
+
+.navigation {
+	height: 30px;
+}
+
+.navigation ul li {
+	display: inline-block;
+	margin-right: 10px;
+	padding: 5px;
+}
+
+.navigation ul li a {
+	color: white;
+	text-decoration: none;
+}
+
+.navigation ul li a:hover {
+	color: #CACACA;
+}
+
+.jumbotron {
+	margin: auto;
+	margin-top: 10px;
+	height: 700px;
+	background-image: url(img/bg_fjumbo.jpg);
+}
+
+.jumbotron .container {
+	padding-top: 200px;
+	padding-left: 40px;
+	color: #404040;
+	font-size: 36px;
+	width: 700px;
+}
+
+.carousel {
+	margin-top: 10px;
+	height: 500px;
+}
+
+.carousel .container {
+	margin-top: 10px;
+	height: 468px;
+}
+
+
+
+#equipment {
+	padding: 80px;
+	background-image: url(img/carousel_im1.jpg);
+}
+
+#instructors {
+	padding-top: 300px;
+	color: #000000;
+	background-image: url(img/carousel_im2.jpg);
+}
+
+#master-classes {
+	background-image: url(img/carousel_im3.jpg);
+}
+
+.footer {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
