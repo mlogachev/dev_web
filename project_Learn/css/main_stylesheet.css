@@ -1,10 +1,14 @@
+.page {
+    background-color: #D1E1F0;
+}
+
 .page div {
 	display: inline-block;
 }
 
 .content {
 	height: 450px;
-/*	background-color: #cc0000;*/
+/*	background-color: #83D1D5;*/
 	position: relative;
 	padding: 5px;
 	font-size: 20px;
@@ -29,6 +33,8 @@
 
 body {
 	background-color: #C1D1E0;
+    padding: 0px;
+    margin: 0px;
 }
 
 .header {
